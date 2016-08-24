@@ -1,0 +1,3 @@
+cd /opt/ExpGenerator
+
+python ExpGenerator.py

