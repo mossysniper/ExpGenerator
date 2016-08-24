@@ -2,4 +2,4 @@ ExpGenerator
 
 
 
-Is A PowerShell Generator
+Is a PowerShell Generator
